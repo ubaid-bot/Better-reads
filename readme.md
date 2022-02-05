@@ -1,0 +1,1 @@
+spring boot app to load data AstraDb .
