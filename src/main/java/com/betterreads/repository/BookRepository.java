@@ -1,6 +1,6 @@
-package com.betterreads.dataloader.repository;
+package com.betterreads.repository;
 
-import com.betterreads.dataloader.model.Book;
+import com.betterreads.model.Book;
 import org.springframework.data.cassandra.repository.CassandraRepository;
 import org.springframework.stereotype.Repository;
 
