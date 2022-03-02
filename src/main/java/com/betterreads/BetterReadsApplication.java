@@ -61,11 +61,11 @@ public class BetterReadsApplication {
     }
 
 
-    @RequestMapping("/user")
+   /* @RequestMapping("/user")
     public String user(@AuthenticationPrincipal OAuth2User principle){
           System.out.println(principle);
           return principle.getAttribute("name");
-    }
+    }*/
 
     /*private void inItAuthors() {
         Path path = Paths.get(authorDump);
